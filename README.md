@@ -1,4 +1,8 @@
 # AWS EC2 Static Website Deployment with Nginx
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
+![Platform](https://img.shields.io/badge/platform-AWS-orange)
+![Web Server](https://img.shields.io/badge/webserver-Nginx-green)
+![Project Type](https://img.shields.io/badge/project-cloud--deployment-blue)
 
 ## Project Overview
 
@@ -178,3 +182,25 @@ Possible enhancements for this project include:
 - Integrating a CI/CD pipeline
 
 ---
+## Project Status
+
+✅ Completed
+
+This project was built as part of the **roadmap.sh AWS project series** to practice launching and configuring a cloud server.
+
+Project Reference:  
+https://roadmap.sh/projects/ec2-instance
+
+
+---
+
+## Author
+
+**Mensur**
+
+Information Science Student  
+Cloud Computing & DevOps Enthusiast
+
+GitHub: https://github.com/mensurmm.
+
+This project is part of my learning journey in **AWS, Linux server administration, and cloud infrastructure deployment**.
